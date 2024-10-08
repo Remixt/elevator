@@ -239,7 +239,7 @@ start=5 floor=8,2,10,3
 
 ---
 
-## Code Structure Overview
+# Code Structure Overview
 
 - **`elevator_simulation.py`**: Main script containing the elevator logic and simulation functions.
 - **`test_elevator_simulation.py`**: Contains unit tests to validate the elevator's behavior.
