@@ -20,7 +20,7 @@ This elevator simulation program models the operation of a single elevator servi
 - [Assumptions](#assumptions)
 - [Extensibility and Modifications](#extensibility-and-modifications)
 - [Running Unit Tests](#running-unit-tests)
-- [Code Structure and Overview](## Code Structure Overview)
+- [Code Structure and Overview](#Code Structure Overview)
 
 ---
 
